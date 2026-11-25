@@ -1,0 +1,5 @@
+00-0,0 +1,400
+build/
+*.0
+_pycache_l
+venv/
